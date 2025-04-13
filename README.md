@@ -34,9 +34,18 @@ Dieses Projekt ermöglicht die direkte Kommunikation mit einem **APsystems EZ1 B
 3. Auf den ESP32 hochladen
 4. Serielle Ausgabe (Baudrate 115200) zur Überprüfung öffnen
 
+🔧 Projektstruktur und zukünftige Planung
+Der enthaltene Sketch APSystemsInverter_ESP32_Standalone.ino ist derzeit eigenständig nutzbar, ohne zusätzliche externe Bibliothek.
+Er wurde so konzipiert, dass er direkt auf einem ESP32 ausgeführt werden kann und sämtliche Funktionen zur Kommunikation mit einem APsystems EZ1 Wechselrichter enthält.
+
+📚 Zukünftige Entwicklung:
+Eine eigenständige, modulare C++-Bibliothek für den ESP32 zur Integration und Wiederverwendung der Funktionen befindet sich in Planung.
+Sobald diese Library entwickelt und getestet wurde, wird sie in diesem Repository veröffentlicht und dokumentiert, um die Wiederverwendung in anderen Projekten zu erleichtern.
+
+
 ## 🖥️ Beispielausgabe (seriell)
 
-📶 Verbunden mit AP-EZ1 🔌 Gerätestatus: 🟢 Status: Eingeschaltet ⚡ Aktuelle Output-Daten: 📈 Kanal 1: 142.3 W | e1: 0.153 kWh | te1: 5.521 kWh 📉 Kanal 2: 0.0 W | e2: 0.000 kWh | te2: 0.021 kWh 🚨 Alarminformationen: 🔴 Off Grid Alarm: Normal ⚡ DC 1 Short Circuit Error: Alarm
+
 
 ![AP Systems EZ1 Inverter ESP32 Data](https://github.com/user-attachments/assets/78b90a2f-85b0-4af4-b196-a36d445a7924)
 
