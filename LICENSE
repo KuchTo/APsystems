@@ -1,17 +1,28 @@
+Custom License for "ESP32 APsystems EZ1 Monitoring"
+Copyright (c) 2025 Tobias Kuch (https://github.com/kuchto)
 
-# 📄 Lizenz
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use the
+Software for **personal, non-commercial purposes only**, under the following conditions:
 
-**© 2025 Tobias Kuch ([@kuchto](https://github.com/kuchto))**
+1. **Attribution (BY):**
+   Any use of this Software must give appropriate credit to the author, Tobias Kuch,
+   include a link to the original repository (https://github.com/kuchto), and indicate
+   if changes were made (only with written permission).
 
-Dieses Projekt steht unter einer angepassten Lizenz:
+2. **Non-Commercial (NC):**
+   The Software may **not** be used for commercial purposes.
 
-- **Namensnennung erforderlich:** Bei jeglicher Nutzung muss der Name _Tobias Kuch_ genannt und auf dieses Repository verwiesen werden.
-- **Keine kommerzielle Nutzung:** Die Nutzung für kommerzielle Zwecke ist **nicht erlaubt**.
-- **Keine Bearbeitungen:** Der Code darf **nicht verändert** und als abgewandelte Version weiterverbreitet werden – außer mit ausdrücklicher Zustimmung des Autors.
+3. **No Derivatives (ND):**
+   You **may not** distribute modified versions of this Software without
+   explicit permission from the author.
 
-> Für Sondergenehmigungen oder kommerzielle Nutzung bitte den Autor kontaktieren.
+4. **No Warranty:**
+   The Software is provided "as is", without warranty of any kind, express or implied,
+   including but not limited to the warranties of merchantability, fitness for a particular purpose,
+   and noninfringement.
 
----
+Violation of these terms may result in revocation of permission to use the Software.
 
-**Autor:** Tobias Kuch  
-**GitHub:** [https://github.com/kuchto](https://github.com/kuchto)
+For questions or licensing exceptions, contact the author via GitHub:
+https://github.com/kuchto
